@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.7",
-  "release_notes": "- Đổi tên ứng dụng.\n- Fix lỗi nhiều thứ khác.",
-  "download_url": "https://github.com/dungpv91/pdfboard-update/releases/download/v1.0.7/Setup_PDFBoard_v1.0.7.exe"
+  "latest_version": "1.0.8",
+  "release_notes": "- Sửa lỗi.\n- Thay đổi điểm, dấu mũi tên.",
+  "download_url": "https://github.com/dungpv91/pdfboard-update/releases/download/v1.0.8/Setup_PDFBoard_v1.0.8.exe"
 }
